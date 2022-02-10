@@ -1,0 +1,24 @@
+{
+  "name": "assignment2-udemy",
+  "version": "1.0.0",
+  "description": "Udemy course assignment #2 for Node.js",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lap343/Assignment2-Udemy.git"
+  },
+  "author": "Luis Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lap343/Assignment2-Udemy/issues"
+  },
+  "homepage": "https://github.com/Lap343/Assignment2-Udemy#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
